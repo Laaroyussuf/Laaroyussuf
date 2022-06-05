@@ -5,18 +5,15 @@ I'm a data scientist  currently learning python libraries that are useful for an
 
 ## How to reach me📲
 
--Twitter:
-[@laaro_yussuf](https://twitter.com/laaro_yussuf)
--LinkedIn: 
-[Laaro Yussuf](https://www.linkedin.com/in/yussuf-laaro-8b0808194)
--Mail:
-[Send me a mail](mailto:yusuflaaro@gmail.com)
+-Twitter:[@laaro_yussuf](https://twitter.com/laaro_yussuf)
+-LinkedIn: [Laaro Yussuf](https://www.linkedin.com/in/yussuf-laaro-8b0808194)
+-Mail:[Send me a mail](mailto:yusuflaaro@gmail.com)
 
 ## Stats 👨‍💻
 
 ![Yussuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laaroyussuf&show_icons=true&theme=radical&hide=issues,contribs)
 ![Yussuf's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Laaroyussuf&langs_count=10&layout=compact&theme=radical)
-![Yussuf's coding time stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laaroyussuf&theme=radical&layout=compact)
+
 <!--
 **Laaroyussuf/Laaroyussuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
