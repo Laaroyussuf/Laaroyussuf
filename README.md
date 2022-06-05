@@ -5,14 +5,11 @@ I'm a data scientist  currently learning python libraries that are useful for an
 
 ## How to reach me📲
 
--Twitter:
-
+- Twitter:
 [@laaro_yussuf](https://twitter.com/laaro_yussuf)
--LinkedIn: 
-
+- LinkedIn: 
 [Laaro Yussuf](https://www.linkedin.com/in/yussuf-laaro-8b0808194)
--Mail:
-
+- Mail:
 [Send me a mail](mailto:yusuflaaro@gmail.com)
 
 ## Stats 👨‍💻
