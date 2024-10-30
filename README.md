@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I am Laaro Yussuf
 
-I'm a data scientist  currently learning python libraries that are useful for analysing 📝 and visualizing data 📊. My interest in machine learning and Artificial Intelligence (AI) has kept me going and learning more of the tools that will be needed to be a pro. 
+I'm a data scientist with a solid foundation in Python and extensive experience in data analysis, visualization, and machine learning. Over the past two years, I've developed and led projects that leverage machine learning to solve real-world problems, including recommendation systems, and spam classifiers model. My goal is to keep exploring advanced AI methodologies and innovative solutions that push the boundaries of what's possible in the field.
 
 ## How to reach me📲
 
