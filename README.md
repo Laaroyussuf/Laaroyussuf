@@ -4,8 +4,8 @@
 Software & AI/ML Engineer passionate about agentic AI systems, computer
 vision, and human-centered applications.
 
-- 🎓 First Class, Water Resources & Environmental Engineering, University of Ilorin (CGPA 4.81/5.0)
-- 📊 Postgraduate Data Science, AltSchool Africa
+- 🎓 Water Resources & Environmental Engineering, University of Ilorin
+- 📜 Diploma in Data Science, AltSchool Africa
 - 📄 Published researcher — Water Practice & Technology (2025)
 
 ## What I work with
